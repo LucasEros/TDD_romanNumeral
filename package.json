@@ -1,0 +1,22 @@
+{
+  "name": "romanos",
+  "version": "1.0.0",
+  "description": "Exercicio TDD com numeros romanos para a disciplina Praticas de Programacao - Unifacisa",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "keywords": [
+    "TDD",
+    "mocha",
+    "chai",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Haniel Barros",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.2"
+  }
+}
